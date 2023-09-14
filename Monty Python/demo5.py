@@ -1,0 +1,5 @@
+print("*"*40)
+name=input("Enter your name:")
+print("*"*40)
+print("Name is:",name)
+print("*"*40)

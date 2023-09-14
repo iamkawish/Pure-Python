@@ -1,0 +1,9 @@
+# time conversion
+hour=int(input("Enter A Hours:"))
+min = hour*60
+sec = hour*60*60
+mili_Second = hour*60*60*60
+print("Hours is: ",hour)
+print("The Minutes is:",min)
+print("The Second is:",sec)
+print("The Milisecond is:",mili_Second)
